@@ -13,7 +13,7 @@ My name is Michelle, and I am a developer currently working at GTC. I enjoy buil
 - TypeScript
 
 ## 📖 What I am currently reading
-- The Innovators Dilemma by Clayton Christensen
+- The Innovator's Dilemma by Clayton Christensen
 - Faraday, Maxwell, and the Electromagnetic Field by Nancy Forbes and Basil Mahon
  
 ## 📫 Where to find me
