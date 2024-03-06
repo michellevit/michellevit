@@ -1,12 +1,12 @@
 # Hi there 👋
 
-My name is Michelle, and I am a full stack web developer currently working at GTC. My focus is on using contemporary web technologies to build applications that save people time and solve problems efficiently. Outside of work, my interests include tinkering with personal coding projects, reading a good book, or enjoying a game of disc golf.
+My name is Michelle, and I am a developer currently working at GTC. I enjoy building applications that solve problems and save people time, by adapting to both emerging and established technologies as the field evolves. Outside of work, my interests include tinkering with personal coding projects, reading a good book, or enjoying a game of disc golf.
 
 ---
 
 ## 🔭 I’m currently working on
-- Adding 1-click shipping capabilities to the 'Production Planner'
-- A Fantasy Disc Golf app
+- Adding 1-click shipping capabilities to my [Production Planner](https://production-planner.michellef.dev) app
+- A [Fantasy Disc Golf](https://fantasy-dg.michellef.dev) app
  
 ## 🌱 I’m currently learning
 - Ruby on Rails
