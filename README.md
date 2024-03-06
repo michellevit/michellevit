@@ -12,7 +12,7 @@ My name is Michelle, and I am a developer currently working at GTC. I enjoy buil
 - Ruby on Rails
 - TypeScript
 
-## 📖 What I am currently reading
+## 📖 I'm currently reading
 - The Innovator's Dilemma by Clayton Christensen
 - Faraday, Maxwell, and the Electromagnetic Field by Nancy Forbes and Basil Mahon
  
