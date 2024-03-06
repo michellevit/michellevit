@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Michelle, and I am a full stack web developer currently working at GTC. My focus is on using contemporary web technologies to build applications that save people time and solve problems efficiently. Outside of work, my interests include tinkering with personal coding projects, reading a good book, or enjoying a game of disc golf.
 
