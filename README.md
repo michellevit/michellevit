@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Michelle, and I am a developer currently working at GTC. I enjoy building applications that solve real-world problems and save people time, leveraging a mix of emerging and trusted technologies as the field evolves. Outside of work, my interests include tinkering with personal coding projects, reading a good book, or enjoying a game of disc golf.
+My name is Michelle, and I'm a developer currently working at GTC. I enjoy building applications that solve real-world problems and save people time, leveraging a mix of emerging and trusted technologies as the field evolves. Outside of work, my interests include tinkering with personal coding projects, reading a good book, or enjoying a game of disc golf.
 
 ---
 
