@@ -6,7 +6,7 @@ My name is Michelle, and I'm a developer currently working at GTC. I enjoy build
 
 ## 🔭 I’m currently working on
 - Integrating courier APIs into my [Production Planner](https://production-planner-demo.michellef.dev) app
-- A [Fantasy Disc Golf](https://fantasy-dg.michellef.dev) app
+- A [Fantasy Disc Golf](https://dgdraft.com) app
  
 ## 🌱 I’m currently learning
 - Ruby on Rails
