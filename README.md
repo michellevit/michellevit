@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Michelle, and I'm a developer currently working at GTC. I enjoy building applications that solve real-world problems and save people time, leveraging a mix of emerging and trusted technologies. Outside of work, my interests include tinkering with personal coding projects, reading a good book, or enjoying a game of disc golf.
+My name is Michelle, and I'm a developer currently working at GTC. I first encountered computer science at UBC, and though my path led me into administration and accounting, I found myself gravitating back to towards coding as I discovered the value in automating simple tasks and modernizing workflows.
 
 ---
 
