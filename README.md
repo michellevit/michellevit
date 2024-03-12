@@ -18,7 +18,7 @@ My name is Michelle, and I'm a developer currently working at GTC. I first encou
  
 ## 📫 Where to find me
 - [My Website](https://michellef.dev)
-- [LinkedIn](https://www.linkedin.com/in/michelle-f-ba0a5017b/)
+- [LinkedIn](https://www.linkedin.com/in/michelle-flandin/)
 
 
 <!--
