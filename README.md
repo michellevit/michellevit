@@ -5,7 +5,7 @@ My name is Michelle, and I'm a developer currently working at GTC. I first encou
 ---
 
 ## 🔭 I’m currently working on
-- Integrating courier APIs into my [Production Planner](https://production-planner-demo.michellef.dev) app
+- Integrating courier APIs into the [Production Planner](https://production-planner-demo.michellef.dev) app
 - A [Fantasy Disc Golf](https://dgdraft.com) app
  
 ## 🌱 I’m currently learning
