@@ -10,7 +10,7 @@ My name is Michelle, and I'm a developer currently working at GTC. I first encou
  
 ## 🌱 I’m currently learning
 - Ruby on Rails
-- TypeScript
+- Tkinter
 
 ## 📖 I'm currently reading
 - The Innovator's Dilemma by Clayton Christensen
