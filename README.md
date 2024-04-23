@@ -1,5 +1,5 @@
 ## 🔭 Currently working on
-- [A Python/Tkinter app for inventory analysis]([https://production-planner-demo.michellef.dev](https://github.com/michellevit/Amazon-Inventory-Checker-App)
+- [A Python/Tkinter app for inventory analysis](https://github.com/michellevit/Amazon-Inventory-Checker-App)
 - [A Fantasy Disc Golf app](https://github.com/michellevit/DG-Draft)
  
 ## 🌱 Currently learning
