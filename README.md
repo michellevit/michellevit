@@ -1,21 +1,18 @@
-Hi, I'm Michelle. If you have any questions about any of my projects, please don't hesitate to [contact me](https://michellef.dev/contact).
----
-
-## 🔭 I’m currently working on
-- [A Python/Tkinter app for inventory analysis]([https://production-planner-demo.michellef.dev](https://github.com/michellevit/Amazon-Inventory-Checker-App))
-- [A Fantasy Disc Golf app](https://github.com/michellevit/DG-Draft))
+## 🔭 Currently working on
+- [A Python/Tkinter app for inventory analysis]([https://production-planner-demo.michellef.dev](https://github.com/michellevit/Amazon-Inventory-Checker-App)
+- [A Fantasy Disc Golf app](https://github.com/michellevit/DG-Draft)
  
-## 🌱 I’m currently learning
+## 🌱 Currently learning
 - Tkinter
 - Ruby on Rails
 
-## 📖 I'm currently reading
+## 📖 Currently reading
 - Faraday, Maxwell, and the Electromagnetic Field by Nancy Forbes and Basil Mahon
  
 ## 📫 Where to find me
 - [My Website](https://michellef.dev)
 - [LinkedIn](https://www.linkedin.com/in/michelle-flandin/)
-
+- [Contact Me](https://michellef.dev/contact)
 
 <!--
 **michellevit/michellevit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
