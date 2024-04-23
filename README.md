@@ -1,19 +1,15 @@
-# Hi there 👋
-
-My name is Michelle, and I'm a developer currently working at GTC. I first encountered computer science at UBC, and though my path led me into administration and accounting, I found myself gravitating back to towards coding as I discovered the value in automating simple tasks and modernizing workflows.
-
+Hi, I'm Michelle. If you have any questions about any of my projects, please don't hesitate to [contact me](https://michellef.dev/contact).
 ---
 
 ## 🔭 I’m currently working on
-- Integrating courier APIs into the [Production Planner](https://production-planner-demo.michellef.dev) app
-- A [Fantasy Disc Golf](https://dgdraft.com) app
+- [A Python/Tkinter app for inventory analysis]([https://production-planner-demo.michellef.dev](https://github.com/michellevit/Amazon-Inventory-Checker-App))
+- [A Fantasy Disc Golf app](https://github.com/michellevit/DG-Draft))
  
 ## 🌱 I’m currently learning
-- Ruby on Rails
 - Tkinter
+- Ruby on Rails
 
 ## 📖 I'm currently reading
-- The Innovator's Dilemma by Clayton Christensen
 - Faraday, Maxwell, and the Electromagnetic Field by Nancy Forbes and Basil Mahon
  
 ## 📫 Where to find me
