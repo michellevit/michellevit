@@ -14,6 +14,7 @@
 ## 🌱 Currently learning
 - Tkinter
 - Ruby on Rails
+- TypeScript
 
 ## 📖 Currently reading
 - Faraday, Maxwell, and the Electromagnetic Field by Nancy Forbes and Basil Mahon
