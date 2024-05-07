@@ -8,7 +8,7 @@
   - [Video Walkthrough](https://www.youtube.com/watch?v=J0YNExrDqck&ab_channel=Michelle)  
 
 ## 🔭 Currently working on
-- [A Tkinter GUI for the Amazon order management script](https://github.com/michellevit/Amazon-Inventory-Checker-App)
+- [A Tkinter GUI for a Python order management script](https://github.com/michellevit/Amazon-Inventory-Checker-App)
 - [A Fantasy Disc Golf app](https://github.com/michellevit/DG-Draft)
  
 ## 🌱 Currently learning
