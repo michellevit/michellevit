@@ -1,5 +1,14 @@
+## ⚡ Featured Projects
+- A Django-React app, integrated with QuickBooks, to streamline the sales-to-shipping process:
+  - [Demo](https://production-planner-demo.michellef.dev/)
+  - [Repository](https://github.com/michellevit/Production-Planner)
+  - [Video Walkthrough](https://www.youtube.com/watch?v=J0YNExrDqck&ab_channel=Michelle)
+- A Python Script to automate Amazon order management:
+  - [Repository](https://github.com/michellevit/Amazon-Inventory-Checker)
+  - [Video Walkthrough](https://www.youtube.com/watch?v=J0YNExrDqck&ab_channel=Michelle)  
+
 ## 🔭 Currently working on
-- [A Python/Tkinter app for inventory analysis](https://github.com/michellevit/Amazon-Inventory-Checker-App)
+- [A Tkinter GUI for the Amazon order management script](https://github.com/michellevit/Amazon-Inventory-Checker-App)
 - [A Fantasy Disc Golf app](https://github.com/michellevit/DG-Draft)
  
 ## 🌱 Currently learning
