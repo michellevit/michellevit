@@ -17,7 +17,7 @@
 - TypeScript
 
 ## 📖 Currently reading
-- Faraday, Maxwell, and the Electromagnetic Field by Nancy Forbes and Basil Mahon
+- [Thinking, Fast and Slow by Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
  
 ## 📫 Where to find me
 - [My Website](https://michellef.dev)
