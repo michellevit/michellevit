@@ -9,20 +9,19 @@
 
 ## 🔭 Currently working on
 - [A Tkinter GUI for a Python order management script](https://github.com/michellevit/Amazon-Inventory-Checker-App)
-- [A Fantasy Disc Golf app](https://github.com/michellevit/DG-Draft)
+- [A fantasy disc golf app](https://github.com/michellevit/DG-Draft)
  
-## 🌱 Currently learning
-- Tkinter
-- Ruby on Rails
-- TypeScript
-
 ## 📖 Currently reading
 - [Thinking, Fast and Slow by Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+
+## ❤️ Favorite languages
+- Python
+- JavaScript
  
-## 📫 Where to find me
-- [My Website](https://michellef.dev)
+## 📫 How to reach me
+- [Portfolio website](https://michellef.dev)
 - [LinkedIn](https://www.linkedin.com/in/michelle-flandin/)
-- [Contact Me](https://michellef.dev/contact)
+- [Send a message](https://michellef.dev/contact)
 
 <!--
 **michellevit/michellevit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
