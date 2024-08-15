@@ -7,12 +7,15 @@
   - [Repository](https://github.com/michellevit/Amazon-Inventory-Checker)
   - [Video Walkthrough](https://www.youtube.com/watch?v=J0YNExrDqck&ab_channel=Michelle)  
 
+
 ## 🔭 Currently working on
 - [A Tkinter GUI for a Python order management script](https://github.com/michellevit/Amazon-Inventory-Checker-App)
 - [A fantasy disc golf app](https://github.com/michellevit/DG-Draft)
+
  
 ## 📖 Currently reading
 - [Thinking, Fast and Slow by Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+
 
 ## 📫 How to reach me
 - [Portfolio website](https://michellef.dev)
