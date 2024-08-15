@@ -14,10 +14,6 @@
 ## 📖 Currently reading
 - [Thinking, Fast and Slow by Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 
-## ❤️ Favorite languages
-- Python
-- JavaScript
- 
 ## 📫 How to reach me
 - [Portfolio website](https://michellef.dev)
 - [LinkedIn](https://www.linkedin.com/in/michelle-flandin/)
