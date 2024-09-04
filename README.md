@@ -3,13 +3,12 @@
   - [Demo](https://production-planner-demo.michellef.dev/)
   - [Repository](https://github.com/michellevit/Production-Planner)
   - [Video Walkthrough](https://www.youtube.com/watch?v=J0YNExrDqck&ab_channel=Michelle)
-- A Python Script to automate Amazon order management:
-  - [Repository](https://github.com/michellevit/Amazon-Inventory-Checker)
+- A Python/Tkinter app to automate Amazon order management:
+  - [Repository](https://github.com/michellevit/Amazon-Inventory-Checker-App)
   - [Video Walkthrough](https://www.youtube.com/watch?v=J0YNExrDqck&ab_channel=Michelle)  
 
 
 ## 🔭 Currently working on
-- [A Tkinter GUI for a Python order management script](https://github.com/michellevit/Amazon-Inventory-Checker-App)
 - [A fantasy disc golf app](https://github.com/michellevit/DG-Draft)
 
  
