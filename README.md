@@ -13,7 +13,7 @@
 
 
 ## 📫 How to reach me
-- [Portfolio website](https://michellef.dev)
+- [Website](https://michellef.dev)
 - [LinkedIn](https://www.linkedin.com/in/michelle-flandin/)
 - [Send a message](https://michellef.dev/contact)
 
