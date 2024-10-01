@@ -12,6 +12,10 @@
 - [A fantasy disc golf app](https://github.com/michellevit/DG-Draft)
 
 
+## 📖 Currently reading
+- [Thinking, Fast and Slow by Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+
+
 ## 📫 How to reach me
 - [Website](https://michellef.dev)
 - [LinkedIn](https://www.linkedin.com/in/michelle-flandin/)
