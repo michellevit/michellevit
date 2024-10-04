@@ -13,7 +13,7 @@
 
 
 ## 📖 Currently reading
-- [Thinking, Fast and Slow by Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+- [The Beginning of Infinity by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 
 
 ## 📫 How to reach me
