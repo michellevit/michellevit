@@ -16,11 +16,6 @@
 - [The Beginning of Infinity by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 
 
-## 📫 How to reach me
-- [Website](https://michellef.dev)
-- [LinkedIn](https://www.linkedin.com/in/michelle-flandin/)
-- [Send a message](https://michellef.dev/contact)
-
 <!--
 **michellevit/michellevit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
