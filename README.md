@@ -5,7 +5,7 @@
 
 ---
 
-#### ✨ Featured project: [Production Planner](https://github.com/michellevit/Production-Planner)
+#### ✨ Featured project: [An app add-on for QuickBooks](https://github.com/michellevit/Production-Planner)
 ![Django Version](https://img.shields.io/badge/Django-4.0.3-0c4a30.svg)
 ![Python Version](https://img.shields.io/badge/Python-3.10.4-ffdb4f.svg)
 ![React Version](https://img.shields.io/badge/React-18.2.0-61dafb.svg)
