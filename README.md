@@ -5,7 +5,7 @@
 
 ### ✨ Featured project  
 [`Production Planner`](https://github.com/michellevit/Production-Planner)
-> An app to streamlines the sales → shipping pipeline
+> An app to streamline the sales → shipping pipeline with QuickBooks
 
 ![Django](https://img.shields.io/badge/django-0c4a30)
 ![Python](https://img.shields.io/badge/python-ffdb4f)
