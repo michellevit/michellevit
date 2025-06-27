@@ -7,11 +7,9 @@ A Django-React app, integrated with QuickBooks, to streamline the sales-to-shipp
   - [Video Demo](https://www.youtube.com/watch?v=J0YNExrDqck&ab_channel=Michelle)
 
 
-```🔭 Currently working on: <a href='fennec.michellef.dev>A side-scroll fox animation</a>```
+```🔭 Currently working on:``` [A side-scroll fox animation](fennec.michelle.fev)
 
-
-```📖 Currently reading```
-[Snow Crash by Neal Stephenson](https://www.goodreads.com/book/show/61240297-snow-crash)
+```📖 Currently reading: ``` [Snow Crash by Neal Stephenson](https://www.goodreads.com/book/show/61240297-snow-crash)
 
 
 <!--
