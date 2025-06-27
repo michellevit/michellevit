@@ -27,5 +27,5 @@
 ---
 
 ### 📚 reading  
-[`snow crash`](https://www.goodreads.com/book/show/61240297-snow-crash) — neal stephenson  
+[`Snow Crash`](https://www.goodreads.com/book/show/61240297-snow-crash) — Neal Stephenson  
 > cyberpunk. linguistics. vr pizza delivery.
