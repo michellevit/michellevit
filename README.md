@@ -13,7 +13,7 @@
 ![Docker](https://img.shields.io/badge/Platform-Docker-0091e2.svg)
 
 
-#### 🔭 Currently working on: [This fox animation](fennec.michelle.fev)
+#### 🔭 Currently working on: [A side-scroller fox animation](fennec.michelle.fev)
 ![Next.js](https://img.shields.io/badge/Next.js-15.3.1-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-19.0.0-61dafb?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
