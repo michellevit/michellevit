@@ -7,11 +7,11 @@
 [`Production Planner`](https://github.com/michellevit/Production-Planner)  
 <sub>App to streamline the sales → shipping pipeline with QuickBooks</sub>
 
-![Django](https://img.shields.io/badge/django-d8b56b)
-![Python](https://img.shields.io/badge/python-d8b56b)
-![React](https://img.shields.io/badge/react-d8b56b)
-![MySQL](https://img.shields.io/badge/mysql-d8b56b)
-![Docker](https://img.shields.io/badge/docker-d8b56b)
+![Django](https://img.shields.io/badge/django-f3d18a)
+![Python](https://img.shields.io/badge/python-f3d18a)
+![React](https://img.shields.io/badge/react-f3d18a)
+![MySQL](https://img.shields.io/badge/mysql-f3d18a)
+![Docker](https://img.shields.io/badge/docker-f3d18a)
 
 <!--
 ![Django](https://img.shields.io/badge/django-0c4a30)
