@@ -19,7 +19,7 @@
 
 ### 🦊 Working on
 [`fennec.michellef.dev`](https://fennec.michellef.dev) 
-> A side-scroll animation, 8-bit vibe
+> A side-scroll animation, 8-bit inspired
 
 ![Next.js](https://img.shields.io/badge/next.js-black)
 ![React](https://img.shields.io/badge/react-61dafb)
