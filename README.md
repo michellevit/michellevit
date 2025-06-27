@@ -7,7 +7,7 @@
 
 ### ✨ Featured project  
 [`Production Planner`](https://github.com/michellevit/Production-Planner)
-> streamlines sales → shipping pipeline
+> An app to streamlines the sales → shipping pipeline
 
 ![Django](https://img.shields.io/badge/django-0c4a30)
 ![Python](https://img.shields.io/badge/python-ffdb4f)
@@ -19,7 +19,7 @@
 
 ### 🦊 Working on
 [`fennec.michellef.dev`](https://fennec.michellef.dev) 
-> side-scroll animation, 8-bit vibe
+> A side-scroll animation, 8-bit vibe
 
 ![Next.js](https://img.shields.io/badge/next.js-black)
 ![React](https://img.shields.io/badge/react-61dafb)
@@ -29,5 +29,4 @@
 ---
 
 ### 📚 Reading  
-[`Snow Crash`](https://www.goodreads.com/book/show/61240297-snow-crash)  
-> Neal Stephenson  
+[`Snow Crash`](https://www.goodreads.com/book/show/61240297-snow-crash)   
