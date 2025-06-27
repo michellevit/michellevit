@@ -22,11 +22,12 @@
 > side-scroll animation, 8-bit vibe
 
 ![Next.js](https://img.shields.io/badge/next.js-black)
-=![React](https://img.shields.io/badge/react-61dafb)
+![React](https://img.shields.io/badge/react-61dafb)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E)
 
 ---
 
 ### 📚 Reading  
-[`Snow Crash`](https://www.goodreads.com/book/show/61240297-snow-crash) — Neal Stephenson  
+[`Snow Crash`](https://www.goodreads.com/book/show/61240297-snow-crash)  
+> Neal Stephenson  
