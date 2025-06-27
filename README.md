@@ -7,11 +7,11 @@
 [`Production Planner`](https://github.com/michellevit/Production-Planner)  
 <sub>App to streamline the sales → shipping pipeline with QuickBooks</sub>
 
-![Django](https://img.shields.io/badge/django-74aa9c)
-![Python](https://img.shields.io/badge/python-74aa9c)
-![React](https://img.shields.io/badge/react-74aa9c)
-![MySQL](https://img.shields.io/badge/mysql-74aa9c)
-![Docker](https://img.shields.io/badge/docker-74aa9c)
+![Django](https://img.shields.io/badge/django-d8b56b)
+![Python](https://img.shields.io/badge/python-d8b56b)
+![React](https://img.shields.io/badge/react-d8b56b)
+![MySQL](https://img.shields.io/badge/mysql-d8b56b)
+![Docker](https://img.shields.io/badge/docker-d8b56b)
 
 <!--
 ![Django](https://img.shields.io/badge/django-0c4a30)
@@ -27,10 +27,10 @@
 [`fennec.michellef.dev`](https://fennec.michellef.dev)  
 <sub>8-bit inspired side-scroll animation</sub>  
 
-![Next.js](https://img.shields.io/badge/next.js-0077B5)
-![React](https://img.shields.io/badge/react-0077B5)
-![TypeScript](https://img.shields.io/badge/typescript-0077B5)
-![JavaScript](https://img.shields.io/badge/javascript-0077B5)
+![Next.js](https://img.shields.io/badge/next.js-c8b7e0)
+![React](https://img.shields.io/badge/react-c8b7e0)
+![TypeScript](https://img.shields.io/badge/typescript-c8b7e0)
+![JavaScript](https://img.shields.io/badge/javascript-c8b7e0)
 
 <!--
 ![Next.js](https://img.shields.io/badge/next.js-black)
