@@ -1,4 +1,4 @@
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-cc7966?style=for-the-badge)](https://michellef.dev)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-f4e3b2?style=for-the-badge)](https://michellef.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/mflandin/)
 <!-- Sage -->
 ---
