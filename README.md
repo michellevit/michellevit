@@ -1,19 +1,17 @@
-## ⚡ Featured Projects
+# Michelle
+
+## ✨ Featured Project
 - A Django-React app, integrated with QuickBooks, to streamline the sales-to-shipping process:
-  - [Demo](https://production-planner-demo.michellef.dev/)
   - [Repository](https://github.com/michellevit/Production-Planner)
-  - [Video Walkthrough](https://www.youtube.com/watch?v=J0YNExrDqck&ab_channel=Michelle)
-- A Python/Tkinter app to automate Amazon order management:
-  - [Repository](https://github.com/michellevit/Amazon-Inventory-Checker-App)
-  - [Video Walkthrough](https://www.youtube.com/watch?v=J0YNExrDqck&ab_channel=Michelle)  
+  - [Video Demo](https://www.youtube.com/watch?v=J0YNExrDqck&ab_channel=Michelle)
 
 
 ## 🔭 Currently working on
-- [A fantasy disc golf app](https://github.com/michellevit/DG-Draft)
+- [A side-scroll fox animation](fennec.michellef.dev)
 
 
 ## 📖 Currently reading
-- [The Beginning of Infinity by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+- [Snow Crash by Neal Stephenson](https://www.goodreads.com/book/show/61240297-snow-crash)
 
 
 <!--
