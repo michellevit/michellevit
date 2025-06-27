@@ -5,7 +5,8 @@
 
 ### ✨ Featured project  
 [`Production Planner`](https://github.com/michellevit/Production-Planner)  
-*An app to streamline the sales → shipping pipeline with QuickBooks*  
+
+<sub>An app to streamline the sales → shipping pipeline with QuickBooks</sub>
 
 ![Django](https://img.shields.io/badge/django-0c4a30)
 ![Python](https://img.shields.io/badge/python-ffdb4f)
@@ -16,7 +17,8 @@
 ---
 
 ### 🦊 Working on
-[`fennec.michellef.dev`](https://fennec.michellef.dev) 
+[`fennec.michellef.dev`](https://fennec.michellef.dev)  
+
 <sub>A side-scroll animation, 8-bit inspired</sub>  
 
 ![Next.js](https://img.shields.io/badge/next.js-black)
