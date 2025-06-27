@@ -5,7 +5,7 @@
 
 ---
 
-### ✨ featured project  
+### ✨ Featured project  
 [`Production Planner`](https://github.com/michellevit/Production-Planner)
 > streamlines sales → shipping pipeline
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🦊 currently making  
+### 🦊 Working on
 [`fennec.michellef.dev`](https://fennec.michellef.dev) 
 > side-scroll animation, 8-bit vibe  
 ![Next.js](https://img.shields.io/badge/next.js-15.3.1-black?style=flat-square)
@@ -27,6 +27,5 @@
 
 ---
 
-### 📚 reading  
+### 📚 Reading  
 [`Snow Crash`](https://www.goodreads.com/book/show/61240297-snow-crash) — Neal Stephenson  
-> cyberpunk. linguistics. vr pizza delivery.
