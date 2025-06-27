@@ -7,7 +7,8 @@
 
 ### ✨ Featured project  
 [`Production Planner`](https://github.com/michellevit/Production-Planner)
-> streamlines sales → shipping pipeline  
+> streamlines sales → shipping pipeline
+
 ![Django](https://img.shields.io/badge/django-4.0.3-0c4a30?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.10.4-ffdb4f?style=flat-square)
 ![React](https://img.shields.io/badge/react-18.2.0-61dafb?style=flat-square)
@@ -18,7 +19,8 @@
 
 ### 🦊 Working on
 [`fennec.michellef.dev`](https://fennec.michellef.dev) 
-> side-scroll animation, 8-bit vibe  
+> side-scroll animation, 8-bit vibe
+
 ![Next.js](https://img.shields.io/badge/next.js-15.3.1-black?style=flat-square)
 ![React](https://img.shields.io/badge/react-19.0.0-61dafb?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/typescript-5.0-blue?style=flat-square)
