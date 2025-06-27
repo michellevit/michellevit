@@ -8,8 +8,7 @@
 ### ✨ Featured project  
 [`Production Planner`](https://github.com/michellevit/Production-Planner)
 > streamlines sales → shipping pipeline
-
-![Django](https://img.shields.io/badge/django-4.0.3-0c4a30?style=flat-square)
+![Django](https://img.shields.io/badge/django-0c4a30)
 ![Python](https://img.shields.io/badge/python-3.10.4-ffdb4f?style=flat-square)
 ![React](https://img.shields.io/badge/react-18.2.0-61dafb?style=flat-square)
 ![MySQL](https://img.shields.io/badge/mysql-db-ffa518?style=flat-square)
