@@ -1,5 +1,3 @@
-# Michelle
-
 ## ✨ Featured Project
 - A Django-React app, integrated with QuickBooks, to streamline the sales-to-shipping process:
   - [Repository](https://github.com/michellevit/Production-Planner)
