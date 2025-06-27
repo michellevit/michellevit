@@ -2,14 +2,13 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mflandin/)
 
 ```✨ Featured project: ```
-A Django-React app, integrated with QuickBooks, to streamline the sales-to-shipping process:
-  - [Repository](https://github.com/michellevit/Production-Planner)
-  - [Video Demo](https://www.youtube.com/watch?v=J0YNExrDqck&ab_channel=Michelle)
+[Production Planner](https://github.com/michellevit/Production-Planner)
 
+```🔭 Currently working on:``` 
+[A side-scroll fox animation](fennec.michelle.fev)
 
-```🔭 Currently working on:``` [A side-scroll fox animation](fennec.michelle.fev)
-
-```📖 Currently reading: ``` [Snow Crash by Neal Stephenson](https://www.goodreads.com/book/show/61240297-snow-crash)
+```📖 Currently reading: ``` 
+[Snow Crash by Neal Stephenson](https://www.goodreads.com/book/show/61240297-snow-crash)
 
 
 <!--
