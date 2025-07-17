@@ -41,5 +41,5 @@
 
 ---
 
-### 📚 Reading  
+### 📖 Reading  
 [`Snow Crash`](https://www.goodreads.com/book/show/61240297-snow-crash)   
