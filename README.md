@@ -1,5 +1,5 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-74aa9c?style=for-the-badge)](https://michellef.dev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/mflandin/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-a5c4d4?style=for-the-badge)](https://www.linkedin.com/in/mflandin/)
 
 ---
 
