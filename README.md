@@ -20,6 +20,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-ffa518)
 ![Docker](https://img.shields.io/badge/docker-0091e2)
 -->
+<img src="https://img.shields.io/badge/django-fbe6a2" alt="Django badge">
 
 ---
 
