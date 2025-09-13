@@ -4,8 +4,10 @@
 ---
 
 ### ✨ Featured project  
-[`Production Planner`](https://github.com/michellevit/Production-Planner)  
-<sub>App to streamline the sales → shipping pipeline with QuickBooks</sub>
+**Production Planner**  
+<sub>App to streamline the sales → shipping pipeline with QuickBooks</sub>  
+[![Demo](https://img.shields.io/badge/DEMO-004596?style=for-the-badge)](https://production-planner.michellef.dev)
+[![Repo](https://img.shields.io/badge/REPO-0b7285?style=for-the-badge)](https://github.com/michellevit/Production-Planner)
 
 ![Django](https://img.shields.io/badge/django-fbe6a2)
 ![Python](https://img.shields.io/badge/python-fbe6a2)
@@ -23,8 +25,11 @@
 ---
 
 ### 🦊 Working on
-[`fennec.michellef.dev`](https://fennec.michellef.dev)  
 <sub>8-bit inspired side-scroll animation</sub>  
+
+[![Demo](https://img.shields.io/badge/DEMO-004596?style=for-the-badge)](https://fennec.michellef.dev)
+[![Repo](https://img.shields.io/badge/REPO-0b7285?style=for-the-badge)](https://github.com/michellevit/Fennec-Animation)
+ 
 
 ![Next.js](https://img.shields.io/badge/next.js-ff9e8d)
 ![React](https://img.shields.io/badge/react-ff9e8d)
