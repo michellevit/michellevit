@@ -7,6 +7,8 @@
 **Production Planner**  
 <sub>App to streamline the sales → shipping pipeline with QuickBooks</sub>  
 
+![DEMO](https://img.shields.io/badge/demo-black)
+
 [![Demo](https://img.shields.io/badge/DEMO-white?style=flat-square)](https://fennec.michellef.dev)
 [![Repo](https://img.shields.io/badge/DEMO-white?style=flat-square)](https://github.com/michellevit/Fennec-Animation)
 
