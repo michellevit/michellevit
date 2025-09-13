@@ -7,12 +7,8 @@
 
 <sub>**Production Planner:** App to streamline the sales → shipping pipeline with QuickBooks</sub>  
 
-<a href="https://production-planner.michellef.dev">
-  <img src="https://img.shields.io/badge/DEMO-6b7280?style=flat-square&logo=google-chrome&logoColor=white" height="18">
-</a>
-<a href="https://github.com/michellevit/Production-Planner">
-  <img src="https://img.shields.io/badge/REPO-6b7280?style=flat-square&logo=github&logoColor=white" height="18">
-</a>
+[![DEMO](https://img.shields.io/badge/-DEMO-E5D08E?style=flat-square&logo=google-chrome&logoColor=000000&labelColor=E5D08E)](https://production-planner.michellef.dev)
+[![REPO](https://img.shields.io/badge/-REPO-E5D08E?style=flat-square&logo=github&logoColor=000000&labelColor=E5D08E)](https://github.com/michellevit/Production-Planner)
 
 ![Django](https://img.shields.io/badge/django-fbe6a2)
 ![Python](https://img.shields.io/badge/python-fbe6a2)
