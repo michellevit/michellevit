@@ -32,6 +32,7 @@
 <a href="https://github.com/michellevit/Fennec-Animation">
   <img src="https://img.shields.io/badge/REPO-6b7280?style=flat-square&logo=github&logoColor=white" height="18">
 </a>
+
 ![Next.js](https://img.shields.io/badge/next.js-ff9e8d)
 ![React](https://img.shields.io/badge/react-ff9e8d)
 ![TypeScript](https://img.shields.io/badge/typescript-ff9e8d)
