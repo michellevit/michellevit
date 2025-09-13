@@ -23,12 +23,8 @@
  
 <sub>**Fox Animation**  8-bit inspired side-scroll animation</sub>  
 
-<a href="https://fennec.michellef.dev">
-  <img src="https://img.shields.io/badge/DEMO-6b7280?style=flat-square&logo=google-chrome&logoColor=white" height="18">
-</a>
-<a href="https://github.com/michellevit/Fennec-Animation">
-  <img src="https://img.shields.io/badge/REPO-6b7280?style=flat-square&logo=github&logoColor=white" height="18">
-</a>
+[![DEMO](https://img.shields.io/badge/-DEMO-E98B7C?style=flat-square&logo=google-chrome&logoColor=000000&labelColor=E98B7C)](https://fennec.michellef.dev)
+[![REPO](https://img.shields.io/badge/-REPO-E98B7C?style=flat-square&logo=github&logoColor=000000&labelColor=E98B7C)](https://github.com/michellevit/Fennec-Animation)
 
 ![Next.js](https://img.shields.io/badge/next.js-ff9e8d)
 ![React](https://img.shields.io/badge/react-ff9e8d)
