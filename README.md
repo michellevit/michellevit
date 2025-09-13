@@ -24,6 +24,7 @@
 ---
 
 ### 🦊 Working on
+**Fox Animation**  
 <sub>8-bit inspired side-scroll animation</sub>  
 
 <a href="https://fennec.michellef.dev">
