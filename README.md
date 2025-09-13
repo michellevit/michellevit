@@ -7,8 +7,8 @@
 
 <sub>**Production Planner:** App to streamline the sales → shipping pipeline with QuickBooks</sub>  
 
-[![DEMO](https://img.shields.io/badge/-DEMO-E5D08E?style=flat-square&logo=google-chrome&logoColor=000000&labelColor=E5D08E)](https://production-planner.michellef.dev)
-[![REPO](https://img.shields.io/badge/-REPO-E5D08E?style=flat-square&logo=github&logoColor=000000&labelColor=E5D08E)](https://github.com/michellevit/Production-Planner)
+[![DEMO](https://img.shields.io/badge/-DEMO-FBECAA?style=flat-square&logo=google-chrome&logoColor=000000&labelColor=E5D08E)](https://production-planner.michellef.dev)
+[![REPO](https://img.shields.io/badge/-REPO-FBECAA?style=flat-square&logo=github&logoColor=000000&labelColor=E5D08E)](https://github.com/michellevit/Production-Planner)
 
 ![Django](https://img.shields.io/badge/django-fbe6a2)
 ![Python](https://img.shields.io/badge/python-fbe6a2)
@@ -23,8 +23,8 @@
  
 <sub>**Fox Animation**  8-bit inspired side-scroll animation</sub>  
 
-[![DEMO](https://img.shields.io/badge/-DEMO-E98B7C?style=flat-square&logo=google-chrome&logoColor=000000&labelColor=E98B7C)](https://fennec.michellef.dev)
-[![REPO](https://img.shields.io/badge/-REPO-E98B7C?style=flat-square&logo=github&logoColor=000000&labelColor=E98B7C)](https://github.com/michellevit/Fennec-Animation)
+[![DEMO](https://img.shields.io/badge/-DEMO-E98B7C?style=flat-square&logo=google-chrome&logoColor=000000&labelColor=FFAB9B)](https://fennec.michellef.dev)
+[![REPO](https://img.shields.io/badge/-REPO-FFAB9B?style=flat-square&logo=github&logoColor=000000&labelColor=E98B7C)](https://github.com/michellevit/Fennec-Animation)
 
 ![Next.js](https://img.shields.io/badge/next.js-ff9e8d)
 ![React](https://img.shields.io/badge/react-ff9e8d)
