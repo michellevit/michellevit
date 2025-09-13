@@ -3,9 +3,9 @@
 
 ---
 
-### ✨ Featured project  
-**Production Planner**  
-<sub>App to streamline the sales → shipping pipeline with QuickBooks</sub>  
+### ✨ Featured project
+
+<sub>**Production Planner:** App to streamline the sales → shipping pipeline with QuickBooks</sub>  
 
 <a href="https://production-planner.michellef.dev">
   <img src="https://img.shields.io/badge/DEMO-6b7280?style=flat-square&logo=google-chrome&logoColor=white" height="18">
@@ -24,8 +24,8 @@
 ---
 
 ### 🦊 Working on
-**Fox Animation**  
-<sub>8-bit inspired side-scroll animation</sub>  
+ 
+<sub>**Fox Animation**  8-bit inspired side-scroll animation</sub>  
 
 <a href="https://fennec.michellef.dev">
   <img src="https://img.shields.io/badge/DEMO-6b7280?style=flat-square&logo=google-chrome&logoColor=white" height="18">
