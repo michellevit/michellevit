@@ -19,6 +19,21 @@
 
 ---
 
+### 🥏 Working on
+ 
+<sub>**DG Draft**: A fantasy disc golf application</sub>  
+
+[![Demo](https://img.shields.io/badge/Demo-FFC7BD?style=flat&logo=google-chrome&logoColor=000000)](https://fennec.michellef.dev)
+[![Repo](https://img.shields.io/badge/Repo-FFC7BD?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Fennec-Animation)
+
+![Rails](https://img.shields.io/badge/rails-ff9e8d)
+![React](https://img.shields.io/badge/react-ff9e8d)
+![TypeScript](https://img.shields.io/badge/typescript-ff9e8d)
+![Heroku](https://img.shields.io/badge/heroku-ff9e8d)
+
+<!---
+---
+
 ### 🦊 Working on
  
 <sub>**Fox Animation**: An 8-bit inspired side-scroll animation</sub>  
@@ -33,6 +48,7 @@
 
 
 ---
+-->
 
 ### 📖 Reading  
 [`Snow Crash`](https://www.goodreads.com/book/show/61240297-snow-crash)   
