@@ -19,12 +19,11 @@
 
 ---
 
-### 🥏 Working on
+### 🛠️ Working on
  
 <sub>**DG Draft**: A fantasy disc golf application</sub>  
 
-[![Demo](https://img.shields.io/badge/Demo-FFC7BD?style=flat&logo=google-chrome&logoColor=000000)](https://fennec.michellef.dev)
-[![Repo](https://img.shields.io/badge/Repo-FFC7BD?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Fennec-Animation)
+[![Repo](https://img.shields.io/badge/Repo-FFC7BD?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/DG-Draft)
 
 ![Rails](https://img.shields.io/badge/rails-ff9e8d)
 ![React](https://img.shields.io/badge/react-ff9e8d)
