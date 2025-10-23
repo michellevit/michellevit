@@ -39,7 +39,7 @@
 [![Demo](https://img.shields.io/badge/Demo-FDA2B6?style=flat&logo=google-chrome&logoColor=000000)](https://fennec.michellef.dev)
 [![Repo](https://img.shields.io/badge/Repo-FDA2B6?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Fennec-Animation)
 
-<sub>**Site Blocker**: An easy-to-install Chrome browser extension</sub>  
+<sub>**Site Blocker**: A lightweight Chrome extension that blocks distracting websites</sub>  
 
 [![Repo](https://img.shields.io/badge/Repo-FDA2B6?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Site-Blocker-Chrome-Extension)
 
