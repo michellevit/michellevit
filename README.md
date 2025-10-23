@@ -35,17 +35,17 @@
 ### 👾 Interesting
 
 <sub>**Fox Animation**</sub>  
-[![Demo](https://img.shields.io/badge/Demo-FFF6DA?style=flat&logo=google-chrome&logoColor=000000)](https://fennec.michellef.dev)
-[![Repo](https://img.shields.io/badge/Repo-ff6f61?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Fennec-Animation)
+[![Demo](https://img.shields.io/badge/Demo-C21E56?style=flat&logo=google-chrome&logoColor=000000)](https://fennec.michellef.dev)
+[![Repo](https://img.shields.io/badge/Repo-C21E56?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Fennec-Animation)
 
 <sub>**Site Blocker Chrome Extension**</sub>  
-[![Repo](https://img.shields.io/badge/Repo-ff6f61?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Site-Blocker-Chrome-Extension)
+[![Repo](https://img.shields.io/badge/Repo-C21E56?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Site-Blocker-Chrome-Extension)
 
 <sub>**Windows Theme Toggler**</sub>  
-[![Repo](https://img.shields.io/badge/Repo-ff6f61?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Theme-Toggle)
+[![Repo](https://img.shields.io/badge/Repo-C21E56?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Theme-Toggle)
 
 <sub>**Favicon Generator**</sub>  
-[![Repo](https://img.shields.io/badge/Repo-ff6f61?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Favicon-Generator)
+[![Repo](https://img.shields.io/badge/Repo-C21E56?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Favicon-Generator)
 
 
 ---
