@@ -43,7 +43,7 @@
 
 [![Repo](https://img.shields.io/badge/Repo-FDA2B6?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Site-Blocker-Chrome-Extension)
 
-<sub>**Theme Toggler**: A desktop icon triggered script to easily switch between the Windows light and dark theme</sub>  
+<sub>**Theme Toggler**: A one-click desktop shortcut to flip Windows between light and dark mode</sub>  
 
 [![Repo](https://img.shields.io/badge/Repo-FDA2B6?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Theme-Toggle)
 
