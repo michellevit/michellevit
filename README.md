@@ -36,16 +36,16 @@
 
 <sub>**Fox Animation**: A music-synced 8-bit short featuring a running fennec fox</sub>  
 
-[![Demo](https://img.shields.io/badge/Demo-F26C85?style=flat&logo=google-chrome&logoColor=000000&labelColor=F26C85&color=F26C85)](https://fennec.michellef.dev)
-[![Repo](https://img.shields.io/badge/Repo-F26C85?style=flat&logo=github&logoColor=000000&labelColor=F26C85&color=F26C85)](https://github.com/michellevit/Fennec-Animation)
+[![Demo](https://img.shields.io/badge/Demo-FFCCD2?style=flat&logo=google-chrome&logoColor=000000&labelColor=F26C85&color=F26C85)](https://fennec.michellef.dev)
+[![Repo](https://img.shields.io/badge/Repo-FFCCD2?style=flat&logo=github&logoColor=000000&labelColor=F26C85&color=F26C85)](https://github.com/michellevit/Fennec-Animation)
 
 <sub>**Site Blocker**: An easy-to-install Chrome browser extension</sub>  
 
-[![Repo](https://img.shields.io/badge/Repo-F26C85?style=flat&logo=github&logoColor=000000&labelColor=F26C85&color=F26C85)](https://github.com/michellevit/Site-Blocker-Chrome-Extension)
+[![Repo](https://img.shields.io/badge/Repo-FFCCD2?style=flat&logo=github&logoColor=000000&labelColor=F26C85&color=F26C85)](https://github.com/michellevit/Site-Blocker-Chrome-Extension)
 
 <sub>**Theme Toggler**: Easily switch between the Windows light and dark theme</sub>  
 
-[![Repo](https://img.shields.io/badge/Repo-F26C85?style=flat&logo=github&logoColor=000000&labelColor=F26C85&color=F26C85)](https://github.com/michellevit/Theme-Toggle)
+[![Repo](https://img.shields.io/badge/Repo-FFCCD2?style=flat&logo=github&logoColor=000000&labelColor=F26C85&color=F26C85)](https://github.com/michellevit/Theme-Toggle)
 
 ---
 <!---
