@@ -34,9 +34,8 @@
 
 ### 👾 Interesting
 
-**Fox Animation**
-[![Demo](https://img.shields.io/badge/Demo-DC143C?style=flat&logo=google-chrome&logoColor=000000)](https://fennec.michellef.dev)
-[![Repo](https://img.shields.io/badge/Repo-DC143C?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Fennec-Animation)
+[![Fox Animation Demo](https://img.shields.io/badge/Demo-DC143C?style=flat&logo=google-chrome&logoColor=000000)](https://fennec.michellef.dev)
+[![Fox Amimation Repo](https://img.shields.io/badge/Repo-DC143C?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Fennec-Animation)
 
 <sub>**Site Blocker Chrome Extension**</sub>
 [![Repo](https://img.shields.io/badge/Repo-DC143C?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Site-Blocker-Chrome-Extension)
