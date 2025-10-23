@@ -37,12 +37,17 @@
 <sub>**Fox Animation**</sub>  
 [![Repo](https://img.shields.io/badge/Repo-e26a5c?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Fennec-Animation)
 [![Demo](https://img.shields.io/badge/Demo-e26a5c?style=flat&logo=google-chrome&logoColor=000000)](https://fennec.michellef.dev)
+
 <sub>**Site Blocker Chrome Extension**</sub>  
 [![Repo](https://img.shields.io/badge/Repo-e26a5c?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Site-Blocker-Chrome-Extension)
+
 <sub>**Windows Theme Toggler**</sub>  
 [![Repo](https://img.shields.io/badge/Repo-e26a5c?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Theme-Toggle)
+
 <sub>**Favicon Generator**</sub>  
 [![Repo](https://img.shields.io/badge/Repo-e26a5c?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Favicon-Generator)
+
+
 ---
 <!---
 
