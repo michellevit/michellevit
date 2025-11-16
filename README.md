@@ -43,28 +43,8 @@
 
 [![Repo](https://img.shields.io/badge/Repo-FDA2B6?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Site-Blocker-Chrome-Extension)
 
-<sub>**Theme Toggler**: A one-click desktop shortcut to flip Windows between light and dark mode</sub>  
+<sub>**Amazon Checker**: A tool that compares requested vs. available inventory and recommends the optimal order quantities.</sub>  
 
-[![Repo](https://img.shields.io/badge/Repo-FDA2B6?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Theme-Toggle)
-
----
-<!---
-
-### 🦊 Working on
- 
-<sub>**Fox Animation**: An 8-bit inspired side-scroll animation</sub>  
-
-[![Demo](https://img.shields.io/badge/Demo-FFC7BD?style=flat&logo=google-chrome&logoColor=000000)](https://fennec.michellef.dev)
-[![Repo](https://img.shields.io/badge/Repo-FFC7BD?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Fennec-Animation)
-
-![Next.js](https://img.shields.io/badge/next.js-ff9e8d)
-![React](https://img.shields.io/badge/react-ff9e8d)
-![TypeScript](https://img.shields.io/badge/typescript-ff9e8d)
-![JavaScript](https://img.shields.io/badge/javascript-ff9e8d)
-
-
----
--->
-
+[![Repo](https://img.shields.io/badge/Repo-FDA2B6?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Amazon-Inventory-Checker-App)
 ### 📖 Reading  
 [`Snow Crash`](https://www.goodreads.com/book/show/61240297-snow-crash)   
