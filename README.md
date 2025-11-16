@@ -46,5 +46,8 @@
 <sub>**Amazon Checker**: A tool that compares requested vs. available inventory and recommends the optimal order quantities.</sub>  
 
 [![Repo](https://img.shields.io/badge/Repo-FDA2B6?style=flat&logo=github&logoColor=000000)](https://github.com/michellevit/Amazon-Inventory-Checker-App)
+
+---
+
 ### 📖 Reading  
 [`Snow Crash`](https://www.goodreads.com/book/show/61240297-snow-crash)   
