@@ -50,4 +50,4 @@
 ---
 
 ### 📖 Reading  
-[`The Wheel of Time: Eye of the World`](https://www.goodreads.com/book/show/228665.The_Eye_of_the_World)   
+[`The Wheel of Time: The Eye of the World`](https://www.goodreads.com/book/show/228665.The_Eye_of_the_World)   
