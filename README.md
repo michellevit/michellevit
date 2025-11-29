@@ -50,4 +50,4 @@
 ---
 
 ### 📖 Reading  
-[`Snow Crash`](https://www.goodreads.com/book/show/61240297-snow-crash)   
+[`The Wheel of Time: Eye of the World`](https://www.goodreads.com/book/show/228665.The_Eye_of_the_World)   
